@@ -1,7 +1,7 @@
 {
 	"host": "rotaryclub.aternos.me",
 	"port": "15015",
-	"username": "SERVER 7/24 AÇIK",
+	"username": "server_her_zaman_acik",
 	"logger": [ true
 		,"true : display not necessary logs. (ex: key inputs on bot)",
 		"false : display only necessary logs. (ex: errors on bot & server)"
